@@ -17,7 +17,3 @@ while i>0:
         i = i - 1
 if(i == 0):
     print("아쉽습니다. 정답은 %d였습니다." % answer)
-
-print("a")
-print("b")
-print("c")
